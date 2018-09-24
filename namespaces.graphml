@@ -416,7 +416,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="3.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.88671875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.078125" x="14.9609375" y="-2.943359375">Docker
 Container
 
-172.40.1.22
+172.40.1.21
 
 <y:LabelModel>
               <y:SmartNodeLabelModel distance="3.0"/>
@@ -525,10 +525,9 @@ Container
           <y:Geometry height="39.0" width="100.0" x="1127.6666666666656" y="368.125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="3.0" fontFamily="Dialog" fontSize="8" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="41.6875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0625" x="23.96875" y="-1.34375">Bridge
+          <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="3.0" fontFamily="Dialog" fontSize="8" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="35.51171875" x="32.244140625" y="3.3671875">Bridge
 
-docker0
-172.40.1.22<y:LabelModel>
+docker0<y:LabelModel>
               <y:SmartNodeLabelModel distance="3.0"/>
             </y:LabelModel>
             <y:ModelParameter>
